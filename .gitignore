@@ -1,0 +1,6 @@
+# Ignore large data files
+*.csv
+*.pkl
+*.png
+# Ignore virtual environment
+fraud_detection_env/ 
